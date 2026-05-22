@@ -1,1 +1,1 @@
-# MCFRNet-Multi-path-Contextual-Feature-Refinement-Network-for-Hyperspectral-Image-Classificatio
+# MCFRNet-Multi-path-Contextual-Feature-Refinement-Network-for-Hyperspectral-Image-Classification
